@@ -1,0 +1,2 @@
+# JSschool
+All about javascript
