@@ -1,0 +1,14 @@
+{
+  "name": "Timers",
+  "version": "1.0.0",
+  "description": "About of timers on nodejs",
+  "main": "index.js",
+  "author": "Toky Mahefarison",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
